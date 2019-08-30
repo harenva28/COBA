@@ -1,0 +1,21 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+
+h1{
+	font-size: 30px;
+	color: steelblue;
+}
+
+h2{
+	font-size: 20 px;
+	color: cyan;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
